@@ -1,0 +1,15 @@
+2019-12-19 15:00 Safeway 14.97 @needs @food
+
+2019-12-21 13:00 Muji 7.99 @extra @gifts
+
+2019-12-21 13:00 Muji 29.09 @extra
+
+2019-12-22 16:00 Nijiya 22.34 @needs @food
+
+2019-12-23 17:10 Chick-fil-a 5.12 @needs @food
+
+2019-12-23 17:12 Target 8.89 @wants
+
+2019-12-24 12:00 Wholefoods 43.08 @needs @food
+
+2019-12-26 10:41 Panera 13.85 @needs @food

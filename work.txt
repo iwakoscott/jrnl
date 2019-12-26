@@ -1,0 +1,55 @@
+2019-12-10 10:17 reorganize package.json @FE
+
+2019-12-10 16:40 learn more about React Native styling + components @FE
+
+2019-12-10 21:36 add No Upcoming Events widget to restaurant profile @FE
+
+2019-12-10 22:18 touch up CSS in SendGrid - I don't know if there is anything else I need to do.
+
+2019-12-11 09:00 work on e-mail template
+
+2019-12-11 10:42 Work on menu item card. @RN
+
+2019-12-11 17:35 build Menu (Event) card component. @RN
+
+2019-12-11 17:51 add custom fonts for @RN
+
+2019-12-12 09:44 fix overflow issue on mobile event list + incorrect rating count on mobile event card @FE
+
+2019-12-12 14:22 complete email template (without media queries.)
+
+2019-12-12 21:00 start on menu list view @RN
+
+2019-12-12 21:45 create custom location search component. @RN
+
+2019-12-13 16:44 add new mock renderer - renderScreen which will be used to render Navigation components @RN
+
+2019-12-13 17:09 add new command - ctrl + shift + d => navigate code definition
+
+2019-12-16 12:37 meet with @Kenji to discuss UX of search location + restaurant name & cuisine @RN
+
+2019-12-17 13:11 keep working on @RN menu list page modal
+
+2019-12-17 13:21 add react-native-location to project for My Location feature @RN
+
+2019-12-17 22:28 refactor styles and layout from the search bar container @RN
+
+2019-12-18 15:35 add finishing touches to search by location modal @RN
+
+2019-12-18 15:36 add refetch to the save event button @FE
+
+2019-12-18 15:36 fix CSS bugs @FE
+
+2019-12-19 09:31 replace old favicon on blog with new Foodnome logo @MB
+
+2019-12-19 13:50 make back button a button on event details mobile @FE
+
+2019-12-19 16:00 start working on search by restaurant name for @RN
+
+2019-12-19 16:30 work on css fixes on @FE
+
+2019-12-20 10:18 make the non-auth drawer into a global drawer on @FE
+
+2019-12-20 20:21 try building email template again
+
+2019-12-23 10:26 keep working on the PBS documentary on Press page @FE
